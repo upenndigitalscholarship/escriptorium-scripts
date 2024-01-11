@@ -86,6 +86,3 @@ or press the stop button in the Docker Desktop application.
 docker compose up -d
 ```
 
-
-# Instructions to Install and Run eScriptorium on Windows
-TODO 
